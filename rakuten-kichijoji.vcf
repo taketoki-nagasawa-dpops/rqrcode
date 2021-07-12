@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 14.6//EN
+N:;楽天モバイル吉祥寺サンロード店;;;
+FN:楽天モバイル吉祥寺サンロード店
+X-PHONETIC-FIRST-NAME:ラクテンモバイルキチジョウジサンロードテン
+TEL;type=pref:0422280773
+ADR;type=pref:;;吉祥寺本町1丁目14-1 吉祥寺サンロードビル1Ｆ;武蔵野市;東京都;180-0004;
+item1.URL;type=pref:https://network.mobile.rakuten.co.jp/shop-detail/2071/
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
